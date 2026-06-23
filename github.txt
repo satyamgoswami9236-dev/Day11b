@@ -1,0 +1,9 @@
+git init
+git status
+
+git config user.name "Satyam"
+git config user.email "satyamgoswami9236@gmail.com"
+
+git remote add origin https://github.com/satyamgoswami9236-dev/Day11b.git
+
+git config --list

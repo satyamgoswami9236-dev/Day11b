@@ -9,5 +9,5 @@ git remote add origin https://github.com/satyamgoswami9236-dev/Day11b.git
 git config --list
 
 git add .
-git commi
+
 
